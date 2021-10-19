@@ -9,17 +9,17 @@ Informações coletadas
 O aplicativo "Meu equipamento" coleta e exibe as seguintes informações sobre o computador:
 
 
-Nome do computador
-Domínio
-Endereço IP
-Endereço MAC
-Sistema Operacional (Windows, etc...)
-Versão do S.O. (11, 10, 7, etc...)
-Build do S.O. (21H2, 2004, 1903, etc...)
-Arquitetura (x64 ou x86)
-Data de instalação do S.O.
-Processador
-Memória RAM
+* Nome do computador
+* Domínio
+* Endereço IP
+* Endereço MAC
+* Sistema Operacional (Windows, etc...)
+* Versão do S.O. (11, 10, 7, etc...)
+* Build do S.O. (21H2, 2004, 1903, etc...)
+* Arquitetura (x64 ou x86)
+* Data de instalação do S.O.
+* Processador
+* Memória RAM
 
 Logo e ícone (favicon)
 -------------------------------------------------------
@@ -31,6 +31,6 @@ Compilação
 
 Utilize os seguintes comandos do PyInstaller
 
-pyi-makespec --onefile --icon="favicon.ico" --noconsole .\main.py 
+* pyi-makespec --onefile --icon="favicon.ico" --noconsole .\main.py 
 
-pyinstaller --onefile --icon="favicon.ico" --noconsole .\main.spec
+* pyinstaller --onefile --icon="favicon.ico" --noconsole .\main.spec
