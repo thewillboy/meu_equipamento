@@ -3,6 +3,13 @@ Meu equipamento
 
 O aplicativo "Meu equipamento" foi criado com o intuito de facilitar o suporte técnico, principalmente quando precisamos solicitar alguns dados técnicos para os usuários.
 
+Imagens do aplicativo funcionando
+-------------------------------------------------------
+
+.. image:: https://raw.githubusercontent.com/thewillboy/meu_equipamento/main/001.jpg
+
+.. image:: https://raw.githubusercontent.com/thewillboy/meu_equipamento/main/002.jpg
+
 Informações coletadas
 -------------------------------------------------------
 
